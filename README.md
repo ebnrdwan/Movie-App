@@ -1,1 +1,1 @@
-# Movie-App-Stage one 
+# Movie-App-Stage one ( graded as Exceed specifications from udacity reviewrs) 
